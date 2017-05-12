@@ -1,0 +1,4 @@
+fsharpc --out:test.exe Busqueda.fs Stack.fs DFS.fs CSP.fs MapaAustralia.fs main.fs 
+mono test.exe 
+
+
